@@ -1,0 +1,559 @@
+
+
+
+@font-face {
+    font-family: TCCC-UnityHeadline; src: url('TCCC-UnityHeadline\ Regular'); }
+
+body {
+    font-family: TCCC-UnityHeadline;
+}
+
+
+.header{
+    height: 120px;
+    width: 100%;
+    position: sticky;
+    background: white;
+    top: 0;
+  
+}
+
+.img1{
+    height: 60px;
+    width: 100%;
+    margin-top: 10px;
+   
+
+}
+.hdr-text {
+    height: 30px;
+    width: 64%;
+    margin-left: 20%;
+    margin-top: 2px;
+    font-size: 19px;
+}
+    
+
+.ourcompany {
+    text-decoration: none;
+    margin-left: 8%;
+    color: #333;
+
+    
+}
+.brands{
+    text-decoration: none;
+    margin-left: 4%;
+    color: #333;
+}
+.responsible{
+    text-decoration: none;
+    margin-left: 4%;
+    color: #333;
+}
+.media{
+    text-decoration: none;
+    margin-left: 4%;
+    color: #333;
+}
+.search{
+    margin-left: 3%   
+}
+.country{
+    margin-left: 3%      
+}
+.ourcompany:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: red;
+    
+    text-decoration-thickness: 2px;   
+}
+.brands:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: red;
+    
+    text-decoration-thickness: 2px;   
+}
+.responsible:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: red;
+    
+    text-decoration-thickness: 2px;   
+}
+.media:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: red;
+    
+    text-decoration-thickness: 2px;   
+}
+.div1{
+
+    height: 575px;
+    width: 100%;
+    background-image:url(images/adding\ happiness\ homepage\ desktop.jpg) ;
+}
+.div-para1{
+    margin-left: -109px;
+    margin-top: 0px;
+    width: 49%;
+    font-size: 41px;
+    color: snow;
+    height: 150px;
+    line-height: 1cm;
+    text-shadow: 1px 1px maroon;
+    padding-left: 250px;
+    padding-top: 185px;
+}
+
+.div-para2{
+    margin-left: 57px;
+    margin-top: 0px;
+    width: 22%;
+    font-size: 24px;
+    padding: 86px;
+    color: snow;
+    height: 150px;
+    line-height: 0.69cm;
+    text-shadow: 1px 1px brown;
+    padding-top: 66px;
+}
+
+.button1{
+    margin-left: 117px;
+    width: 15%;
+    font-size: 19px;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    color: snow;
+    height: 29px;
+    line-height: 0.69cm;
+    text-shadow: 1px 1px brown;
+    background: none;
+    border: none;
+}
+.button1:hover{
+    cursor: pointer;
+}
+
+.div2{
+    height: 575px;
+    width: 100%;
+    background-image:url(images/homepage\ sustainability\ 2.jpg) ;
+}
+.div2_1
+{
+   height: 100%;
+   width: 50%;
+   float: left;
+
+}
+.div2_2
+{
+   height: 100%;
+   width: 50%;
+   float: left;
+
+}
+.div2-para1{
+    
+    height: 15%;
+    width: 59%;
+    font-size: 37px;
+    
+    color: snow;
+    line-height: 1cm;
+    text-shadow: 1px 1px maroon;
+    margin-top: 196px;
+    margin-left: 132px;
+
+}
+.div2-para2{
+    font-size: 24px;
+    
+    color: snow;
+    height: 95px;
+    line-height: 0.69cm;
+    margin-left: 131px;
+    text-shadow: 1px 1px brown;
+    padding-top: 14px;
+}
+.button2{
+    margin-left: 117px;
+    width: 27%;
+    font-size: 19px;
+   
+    color: snow;
+    height: 29px;
+    line-height: 0.69cm;
+    text-shadow: 1px 1px brown;
+    background: none;
+    border: none;
+}
+.side2{
+    margin-left: 627px;
+    margin-top: 175px;
+    width: 15px;
+}
+
+
+
+.div3{
+    height: 575px;
+    width: 100%;
+    background-image:url(images/Water\ Stewardship\ -\ Desktop.jpg) ;
+    background-position-y: -164px;
+    
+}
+.div3_1
+{
+   height: 100%;
+   width: 50%;
+   float: left;
+
+}
+.div3_2
+{
+   height: 100%;
+   width: 50%;
+   float: left;
+
+}
+.div3-para1{
+    
+    height: 9%;
+    width: 55%;
+    font-size: 37px;
+    
+    color: snow;
+    line-height: 1cm;
+    text-shadow: 1px 1px maroon;
+    margin-top: 196px;
+    margin-left: 132px;
+
+}
+.div3-para2{
+    font-size: 24px;
+    
+    color: snow;
+    height: 139px;
+    line-height: 0.69cm;
+    margin-left: 131px;
+    text-shadow: 1px 1px brown;
+}
+.button3{
+    margin-left: 117px;
+    width: 27%;
+    font-size: 19px;
+    
+    color: snow;
+    height: 29px;
+    line-height: 0.69cm;
+    text-shadow: 1px 1px brown;
+    background: none;
+    border: none;
+}
+.side3{
+    margin-left: 627px;
+    margin-top: 190px;
+    width: 15px;
+}
+
+
+
+
+
+.div4{
+    height: 550px;
+    width: 100%;
+    background-image:url(images/world\ without\ waste\ .jpg) ;
+    background-position-y: -23px;
+    
+}
+.div4_1
+{
+   height: 100%;
+   width: 50%;
+   float: left;
+
+}
+.div4_2
+{
+   height: 100%;
+   width: 50%;
+   float: left;
+
+}
+.div4-para1{
+    
+    height: 18%;
+    width: 55%;
+    font-size: 35px;
+    
+    color: snow;
+    line-height: 1cm;
+    text-shadow: 1px 1px maroon;
+    margin-top: 196px;
+    margin-left: 132px;
+}
+.div4-para2{
+    font-size: 24px;
+    
+    color: snow;
+    height: 100px;
+    line-height: 0.69cm;
+    margin-left: 131px;
+    text-shadow: 1px 1px brown;
+}
+.button4{
+    margin-left: 117px;
+    width: 27%;
+    font-size: 19px;
+    
+    color: snow;
+    height: 29px;
+    line-height: 0.69cm;
+    text-shadow: 1px 1px brown;
+    background: none;
+    border: none;
+}
+.side4{
+    margin-left: 627px;
+    margin-top: 190px;
+    width: 15px;
+}
+
+
+
+
+
+.div5{
+    height: 550px;
+    width: 100%;
+    background-image: url(images/1f1e4806-6a73-40ba-9234-ea63a40b1224.jpg);
+    background-size: cover;
+    
+    
+}
+.div5_1
+{
+   height: 100%;
+   width: 50%;
+   float: left;
+
+}
+.div5_2
+{
+   height: 100%;
+   width: 50%;
+   float: left;
+   display: flex;
+   align-items: center;
+   
+
+}
+.div5_2_1{
+    height: 257px;
+    
+
+}
+.div5_2_2{
+
+}
+.div5-para1{
+    
+    height: 15%;
+    width: 34%;
+    font-size: 43px;
+    
+    color: snow;
+    line-height: .9cm;
+    text-shadow: 1px 1px maroon;
+    margin-top: -6%;
+    margin-left: 234px;
+}
+.div5-para2{
+    font-size: 24px;
+    
+    color: snow;
+    height: 167px;
+    line-height: 0.69cm;
+    margin-left: 234px;
+    text-shadow: 1px 1px brown;
+    margin-top: 83px;
+}
+.button5{
+    margin-left: 216px;
+    width: 32%;
+    font-size: 19px;
+    color: snow;
+    height: 29px;
+    line-height: 0.69cm;
+    text-shadow: 1px 1px brown;
+    background: none;
+    border: none;
+    float: left;
+    margin-top: 78px;
+}
+
+.side5{
+   
+    width: 15px;
+    padding-left: 64px;
+}
+
+
+
+
+.div6{
+    height: 575px;
+    width: 100%;
+    background-image: url(images/journey-desktop-banner-4-1440x650.jpg);
+    background-position-y: -22px;
+    
+}
+.div6_1
+{
+   height: 100%;
+   width: 50%;
+   float: left;
+
+}
+.div6_2
+{
+   height: 100%;
+   width: 50%;
+   float: left;
+
+}
+.div6-para1{
+    
+    height: 23%;
+    width: 55%;
+    font-size: 35px;
+    
+    color: snow;
+    line-height: 1cm;
+    text-shadow: 1px 1px maroon;
+    margin-top: 60px;
+    margin-left: 132px;
+}
+.div6-para2{
+    font-size: 24px;
+    
+    color: snow;
+    height: 224px;
+    line-height: 0.69cm;
+    margin-left: 131px;
+    text-shadow: 1px 1px brown;
+}
+.button6{
+    margin-left: 117px;
+    width: 27%;
+    font-size: 19px;
+    
+    color: snow;
+    height: 29px;
+    line-height: 0.69cm;
+    text-shadow: 1px 1px brown;
+    background: none;
+    border: none;
+}
+.side6{
+    margin-left: 627px;
+    margin-top: 190px;
+    width: 15px;
+}
+
+
+
+
+.footer{
+    height: 262px;
+    width: 100%;
+    display: flex;
+    background: #4A4A4A;
+}
+.footer1{
+    display: flex;
+    flex-direction: column;
+    
+    width: 65%;
+    margin-block: 0px;
+
+}
+.footer2{
+    width: 35%;
+    margin-block: 0px;
+    display: flex;
+    flex-direction: column;
+}
+.footer-img{
+    height: 55.5px;
+    width:max-content;
+    padding-left: 50px;
+    padding-top: 36px;
+}
+.p1{
+color: #F2F2F2;
+
+font-style: normal;
+font-size: 0.85rem;
+padding-left: 50px;
+line-height: normal;
+height: max-content;
+margin-bottom: 7px;
+}
+.p2{
+    color: #F2F2F2;
+   
+    font-style: normal;
+    font-size: 0.85rem;
+    line-height: 1.5rem;
+    line-height: normal;
+    padding-left: 50px;
+    width: 561px;
+    margin: 0;
+    
+
+}
+
+.footer-table{
+
+    color: #F2F2F2;
+   
+    width: 75%;
+    margin-left: 93px;
+    padding-top: 19px;
+}
+.footer2_1{
+    display: flex;
+
+}
+.footer2_1 > *{
+    padding-left: 22px;
+    padding-top: 45px;
+    color: #F2F2F2;
+    
+    font-size: 15px;
+}
+
+.footer2_2{
+    display: flex;
+    padding-left: 86px;
+    padding-top: 20px;
+
+}
+.footer2_2 > *{
+    margin-left: 15px;
+
+
+
+}
+
+
+    
+
+
